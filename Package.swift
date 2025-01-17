@@ -25,8 +25,3 @@ let package = Package(
     ]
 )
 
-// rpath searching:
-// libzaber-motion-core.dylib
-// /System/Volumes/Preboot/Cryptexes/OSlibzaber-motion-core.dylib
-// /Users/colby.sparks/Desktop/swift-test/libzaber-motion-core.dylib
-// /System/Volumes/Preboot/Cryptexes/OS/Users/colby.sparks/Desktop/swift-test/libzaber-motion-core.dylib
